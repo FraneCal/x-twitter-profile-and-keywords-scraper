@@ -1,0 +1,7 @@
+# Browser session (cookies / X login) - never commit
+browser_profile/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
